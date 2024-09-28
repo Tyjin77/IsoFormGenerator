@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsoFormGenerator.Core", "IsoFormGenerator.Core\IsoFormGenerator.Core.csproj", "{6CFF44BC-E671-4DB0-9181-A7449EA0FB59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsoFormGenerator.Console", "IsoFormGenerator.Console\IsoFormGenerator.Console.csproj", "{C8DE6B98-24FD-42CC-B4D3-E0EDDD75BFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFF44BC-E671-4DB0-9181-A7449EA0FB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFF44BC-E671-4DB0-9181-A7449EA0FB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFF44BC-E671-4DB0-9181-A7449EA0FB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFF44BC-E671-4DB0-9181-A7449EA0FB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DE6B98-24FD-42CC-B4D3-E0EDDD75BFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DE6B98-24FD-42CC-B4D3-E0EDDD75BFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DE6B98-24FD-42CC-B4D3-E0EDDD75BFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DE6B98-24FD-42CC-B4D3-E0EDDD75BFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D8CE25-2657-422C-9D90-3F7FDE2491F9}
+	EndGlobalSection
+EndGlobal
